@@ -31,6 +31,8 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="Apollo" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="Graphql" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />
