@@ -4,8 +4,7 @@
 
 ### <div align="center">I'm Marc-Antoine, a software engineer who loves web development 👨‍💻</div>
 
-- 🔭 I’m currently working on [Code Against Racism](https://github.com/codeAgainstRacism/codeagainstracism.org/)
-- ❓ Ask me about anything related to MERN stack and related technologies
+- 🔭 I’m currently working on a [starter/boilerplate project](https://github.com/Chevalmuscle/react-apollo-template) & [Code Against Racism](https://github.com/codeAgainstRacism/codeagainstracism.org/)
 - ⚡ 2 spaces > tabs
 - 👅 Français + English
 
