@@ -49,8 +49,8 @@
 
 ## Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chevalmuscle&show_icons=true&count_private=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevalmuscle" align="center"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevalmuscle&theme=dark&&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chevalmuscle&show_icons=true&count_private=true&hide_rank=true&theme=dark&bg_color=0d1117&hide_border=true" />
 </div>
 <br />
