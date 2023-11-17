@@ -8,9 +8,9 @@ Backend web development and infra
 
 <div>
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="50" />
+<img style="margin: 10px" src="https://cdn.rawgit.com/go-chi/chi/master/_examples/chi.svg" alt="go-chi" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://cdn.rawgit.com/go-chi/chi/master/_examples/chi.svg" alt="go-chi" height="50" />
 </div>
 
 <div>
@@ -35,10 +35,6 @@ Backend web development and infra
 <img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/aws-sqs-simple-queue-service-icon-424x512-lkqfmttm.png" alt="AWS SQS" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-</div>
-
-<div>
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="50" />
 </div>
 
 ## Github Stats
